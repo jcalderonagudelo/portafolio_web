@@ -39,3 +39,7 @@ function efectoHabilidades(){
 window.onscroll = function(){
     efectoHabilidades();
 } 
+
+document.getElementById("botonCorreo").addEventListener("click", function() {
+    alert("¡Ups! Esta función aún está en proceso, intenta enviar un correo a jcalderonagudelo@gmai.com");
+  });
