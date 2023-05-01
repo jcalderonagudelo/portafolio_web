@@ -68,7 +68,7 @@ html{
 .inicio .contenido-banner{
     padding: 20px;
     background-color: #1e2326;
-    max-width: 350px;
+    max-width: 400px;
     margin: auto;
     text-align: center;
     border-radius: 40px;
@@ -590,7 +590,7 @@ html{
     top: 40%;
     background-color: #252A2E;
     padding: 20px;
-    max-swidth: 350px;
+    max-width: 350px;
     left: 50%;
     transform: translate(-50%, -50%);
 }
